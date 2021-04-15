@@ -1,0 +1,16 @@
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\bin\Debug\net5.0\DotNetAPIExample.exe
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\bin\Debug\net5.0\DotNetAPIExample.deps.json
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\bin\Debug\net5.0\DotNetAPIExample.runtimeconfig.json
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\bin\Debug\net5.0\DotNetAPIExample.runtimeconfig.dev.json
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\bin\Debug\net5.0\DotNetAPIExample.dll
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\bin\Debug\net5.0\ref\DotNetAPIExample.dll
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\bin\Debug\net5.0\DotNetAPIExample.pdb
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\obj\Debug\net5.0\DotNetAPIExample.csprojAssemblyReference.cache
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\obj\Debug\net5.0\DotNetAPIExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\obj\Debug\net5.0\DotNetAPIExample.AssemblyInfoInputs.cache
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\obj\Debug\net5.0\DotNetAPIExample.AssemblyInfo.cs
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\obj\Debug\net5.0\DotNetAPIExample.csproj.CoreCompileInputs.cache
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\obj\Debug\net5.0\DotNetAPIExample.dll
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\obj\Debug\net5.0\ref\DotNetAPIExample.dll
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\obj\Debug\net5.0\DotNetAPIExample.pdb
+D:\repos\github.com\withpear\csharp-base\DotNetAPIExample\obj\Debug\net5.0\DotNetAPIExample.genruntimeconfig.cache
